@@ -3,8 +3,6 @@ import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin} from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
 import { FaRegEnvelope } from 'react-icons/fa';
-
-
 function Footer() {
   return (
     <div className="py-5 border-t-3/2 bg-gradient-to-b from-gray-800 to-black">
